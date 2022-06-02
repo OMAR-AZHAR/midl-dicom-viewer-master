@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="84" viewBox="0 0 94 84">
+  <g id="Mark-hover" transform="translate(-0.496 0.304)">
+    <g id="Rectangle_1154" data-name="Rectangle 1154" transform="translate(0.496 -0.304)"  stroke="#02598b" stroke-width="2">
+      <rect width="94" height="83" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="91" height="81" rx="7" fill="none"/>
+    </g>
+    <text id="Mark" transform="translate(47.496 75.696)" fill="#ddd" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-15.762" y="0">Probe</tspan></text>
+    <path id="Icon_awesome-pen-fancy" data-name="Icon awesome-pen-fancy" d="M6.2,22.159a2.507,2.507,0,0,0-1.585,1.585L0,37.592l.367.367,7.275-7.275a2.41,2.41,0,0,1-.123-.611,2.506,2.506,0,1,1,2.506,2.506,2.411,2.411,0,0,1-.611-.123L2.14,39.732l.367.367,13.848-4.616A2.5,2.5,0,0,0,17.939,33.9l2.59-6.584-7.744-7.744ZM28.918,2.218,14.578,17.841,22.241,25.5,37.865,11.164C44.515,5.285,34.751-4.381,28.918,2.218Z" transform="translate(27.301 16.21)" fill="#ddd"/>
+  </g>
+</svg>

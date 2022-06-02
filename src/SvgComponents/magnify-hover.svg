@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="84" viewBox="0 0 95 84">
+  <g id="magnify-hover" transform="translate(-0.498 0.455)">
+    <g id="Rectangle_1154" data-name="Rectangle 1154" transform="translate(0.498 -0.455)"  stroke="#02598b" stroke-width="2">
+      <rect width="95" height="84" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="92" height="82" rx="7" fill="none"/>
+    </g>
+    <text id="Magnify" transform="translate(46.502 75.545)" fill="#ddd" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-20.941" y="0">Magnify</tspan></text>
+    <g id="Rectangle_1155" data-name="Rectangle 1155" transform="translate(22.502 10.545)" fill="none" stroke="#ddd" stroke-width="1">
+      <rect width="50" height="50" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="49" height="49" rx="3.5" fill="none"/>
+    </g>
+    <g id="Rectangle_1156" data-name="Rectangle 1156" transform="translate(28.502 16.545)" fill="#ddd" stroke="#ddd" stroke-width="1">
+      <rect width="38" height="38" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="37" height="37" rx="3.5" fill="none"/>
+    </g>
+    <g id="zoom" transform="translate(36.724 24.78)">
+      <path id="Path_647" data-name="Path 647" d="M23.39,13.945A9.445,9.445,0,1,1,13.945,4.5,9.445,9.445,0,0,1,23.39,13.945Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#001520" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_648" data-name="Path 648" d="M30.111,30.111l-5.136-5.136" transform="translate(-8.859 -8.859)" fill="none" stroke="#001520" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

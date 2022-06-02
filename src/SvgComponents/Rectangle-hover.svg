@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="84" viewBox="0 0 95 84">
+  <g id="Rectangle-hover" transform="translate(0.498 0.416)">
+    <g id="Rectangle_1154" data-name="Rectangle 1154" transform="translate(-0.498 -0.416)"  stroke="#02598b" stroke-width="2">
+      <rect width="94" height="83" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="92" height="81" rx="7" fill="none"/>
+    </g>
+    <text id="Rectangle" transform="translate(46.502 75.584)" fill="#ddd" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-23.941" y="0">Rectangle</tspan></text>
+    <g id="Rectangle_1157" data-name="Rectangle 1157" transform="translate(25.502 13.584)" fill="none" stroke="#ddd" stroke-width="2">
+      <rect width="43" height="43" rx="4" stroke="none"/>
+      <rect x="1" y="1" width="41" height="41" rx="3" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="84" viewBox="0 0 95 84">
+  <g id="zoom-hover" transform="translate(0.001 0.455)">
+    <g id="Rectangle_1154" data-name="Rectangle 1154" transform="translate(-0.001 -0.455)"  stroke="#02598b" stroke-width="2">
+      <rect width="95" height="84" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="93" height="82" rx="7" fill="none"/>
+    </g>
+    <text id="Zoom" transform="translate(46.999 75.545)" fill="#ddd" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-18.531" y="0">Zoom</tspan></text>
+    <g id="zoom-2" data-name="zoom" transform="translate(27.783 13.231)">
+      <path id="Path_647" data-name="Path 647" d="M39.286,21.893A17.393,17.393,0,1,1,21.893,4.5,17.393,17.393,0,0,1,39.286,21.893Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_648" data-name="Path 648" d="M34.432,34.432l-9.457-9.457" transform="translate(4.702 4.702)" fill="none" stroke="#ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

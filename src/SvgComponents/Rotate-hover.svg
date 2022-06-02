@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="83" viewBox="0 0 94 83">
+  <g id="Rotate-hover" transform="translate(-0.496 -0.32)">
+    <g id="Rectangle_1154" data-name="Rectangle 1154" transform="translate(0.496 0.32)" fill="#003655" stroke="#02598b" stroke-width="2">
+      <rect width="94" height="83" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="92" height="81" rx="7" fill="none"/>
+    </g>
+    <text id="Rotate" transform="translate(46.496 75.32)" fill="#ddd" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-21.268" y="0">Rotate</tspan></text>
+    <path id="Icon_material-rotate-right" data-name="Icon material-rotate-right" d="M30.466,11.138,20.828,1.5V8a16.928,16.928,0,0,0,0,33.6V37.319a12.694,12.694,0,0,1,0-25.038v8.282Zm9.278,11.544a16.747,16.747,0,0,0-3.432-8.24L33.3,17.45a12.3,12.3,0,0,1,2.161,5.232ZM25.064,37.3v4.279a16.785,16.785,0,0,0,8.261-3.41l-3.05-3.05A12.255,12.255,0,0,1,25.064,37.3Zm8.24-5.126,3.008,2.987a16.747,16.747,0,0,0,3.432-8.24H35.465A12.491,12.491,0,0,1,33.3,32.172Z" transform="translate(24.478 12.15)" fill="#ddd"/>
+  </g>
+</svg>

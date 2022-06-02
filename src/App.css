@@ -1,0 +1,19 @@
+
+
+
+.layout-grid {
+    display: grid;
+}
+.invertIcon{
+    fill: #003655;
+    cursor: pointer;
+    border-color: #02273b;
+        caret-color: rgba(0,0,0,0); 
+        /* To Hide Blinking Cursor */
+   
+}
+.invertIcon:hover {
+    fill:var(--filly,#02273b);
+    cursor: pointer;
+    
+}

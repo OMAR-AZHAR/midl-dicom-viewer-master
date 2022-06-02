@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="84" viewBox="0 0 94 84">
+  <g id="Reset-hover" transform="translate(-0.496 0.145)">
+    <g id="Rectangle_1154" data-name="Rectangle 1154" transform="translate(0.496 -0.145)" fill="#003655" stroke="#02598b" stroke-width="2">
+      <rect width="94" height="84" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="92" height="82" rx="7" fill="none"/>
+    </g>
+    <text id="Reset" transform="translate(48.496 76.855)" fill="#ddd" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-19.138" y="0">Reset</tspan></text>
+    <g id="reset-svgrepo-com" transform="translate(65.795 16.518) rotate(90)">
+      <path id="Path_671" data-name="Path 671" d="M9.462,35.418a18.993,18.993,0,1,1,9.526,2.559" fill="none" stroke="#ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" fill-rule="evenodd"/>
+      <path id="Path_672" data-name="Path 672" d="M9.494,0V9.494H0" transform="translate(0 26.109)" fill="none" stroke="#ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

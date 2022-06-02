@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="83" viewBox="0 0 95 83">
+  <g id="Flip-hover" transform="translate(0.001 -0.32)">
+    <g id="Rectangle_1154" data-name="Rectangle 1154" transform="translate(-0.001 0.32)" fill="#003655" stroke="#02598b" stroke-width="2">
+      <rect width="95" height="83" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="93" height="81" rx="7" fill="none"/>
+    </g>
+    <text id="Flip" transform="translate(47.999 75.32)" fill="#ddd" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-10.868" y="0">Flip</tspan></text>
+    <path id="Icon_material-flip" data-name="Icon material-flip" d="M26.372,37.953h3.645V34.308H26.372Zm7.291-21.872h3.645V12.436H33.662ZM4.5,8.791V34.308a3.656,3.656,0,0,0,3.645,3.645h7.291V34.308H8.145V8.791h7.291V5.145H8.145A3.656,3.656,0,0,0,4.5,8.791ZM33.662,5.145V8.791h3.645A3.656,3.656,0,0,0,33.662,5.145ZM19.081,41.6h3.645V1.5H19.081ZM33.662,30.662h3.645V27.017H33.662ZM26.372,8.791h3.645V5.145H26.372Zm7.291,14.581h3.645V19.726H33.662Zm0,14.581a3.656,3.656,0,0,0,3.645-3.645H33.662Z" transform="translate(26.02 12.15)" fill="#ddd"/>
+  </g>
+</svg>

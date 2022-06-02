@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="83" viewBox="0 0 94 83">
+  <g id="invert-hover" transform="translate(-0.496 -0.433)">
+    <g id="Rectangle_1154" data-name="Rectangle 1154" transform="translate(0.496 0.433)"  stroke="#02598b" stroke-width="2">
+      <rect width="94" height="83" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="92" height="81" rx="7" fill="none"/>
+    </g>
+    <text id="Invert" transform="translate(47.496 75.433)" fill="#ddd" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-18.226" y="0">Invert</tspan></text>
+    <path id="Icon_material-invert-colors" data-name="Icon material-invert-colors" d="M35.813,15.758,23.46,3.4,11.107,15.758a17.462,17.462,0,1,0,24.706,0ZM23.46,41.206a13.087,13.087,0,0,1-9.254-22.349L23.46,9.581Z" transform="translate(23.007 8.2)" fill="#ddd"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="84" viewBox="0 0 95 84">
+  <g id="Angle-hover" transform="translate(0.001 0.304)">
+    <g id="Rectangle_1154" data-name="Rectangle 1154" transform="translate(-0.001 -0.304)" stroke="#02598b" stroke-width="2">
+      <rect width="94" height="83" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="92" height="81" rx="7" fill="none"/>
+    </g>
+    <text id="Angle" transform="translate(46.999 75.696)" fill="#ddd" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-18.564" y="0">Angle</tspan></text>
+    <g id="angle-svgrepo-com" transform="translate(27.301 17.791)">
+      <g id="Group_118" data-name="Group 118" transform="translate(0 0)">
+        <path id="Path_670" data-name="Path 670" d="M38.79,82.071H19.985A18.55,18.55,0,0,0,15.434,71.1l16-16a1.307,1.307,0,0,0-1.849-1.849L12.7,70.132.383,82.454a1.307,1.307,0,0,0,.924,2.232H38.79a1.308,1.308,0,1,0,0-2.615Z" transform="translate(0 -52.869)" fill="#ddd"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="84" viewBox="0 0 95 84">
+  <g id="Cirlce-hover" transform="translate(0.001 0.416)">
+    <g id="Rectangle_1154" data-name="Rectangle 1154" transform="translate(-0.001 -0.416)"  stroke="#02598b" stroke-width="2">
+      <rect width="94" height="83" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="92" height="81" rx="7" fill="none"/>
+    </g>
+    <text id="Cirlce" transform="translate(46.999 75.584)" fill="#ddd" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-18.616" y="0">Cirlce</tspan></text>
+    <g id="Ellipse_16" data-name="Ellipse 16" transform="translate(24.999 11.584)" fill="none" stroke="#ddd" stroke-width="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+  </g>
+</svg>
