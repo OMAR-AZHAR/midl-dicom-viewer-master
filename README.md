@@ -140,4 +140,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Copyright
 
-Copyright 2019 Luigi Orso [webnamics@gmail.com](mailto:webnamics@gmail.com)
+Copyright 2022 Omar A. Malik [www.linkedin.com/in/omar-a-malik](mailto:malikomar353@gmail.com)
